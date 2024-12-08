@@ -2,6 +2,7 @@
 The Word Composition Problem involves finding the longest and second-longest "compounded" words from a list of alphabetically sorted words. A compounded word is defined as a word that can be constructed by concatenating shorter words from the same list. The program reads the input words, identifies the compounded words, and displays the results along with the time taken for processing.
 
 ## Run and Debug
+Download the wordCompositionProblem file. Then,
 Open Command Line.
 ```sh
 javac wordCompositionProblem.java
